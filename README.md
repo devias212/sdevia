@@ -1,2 +1,2 @@
 # sdevia
-modulo 1 proyecto 1
+costos y gastos (con el numero 6)
